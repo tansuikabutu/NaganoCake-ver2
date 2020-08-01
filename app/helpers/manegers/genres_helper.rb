@@ -1,0 +1,2 @@
+module Manegers::GenresHelper
+end

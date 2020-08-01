@@ -1,0 +1,2 @@
+module Manegers::SearchesHelper
+end
